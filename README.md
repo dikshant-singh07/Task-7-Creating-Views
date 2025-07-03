@@ -4,7 +4,7 @@ This task focuses on creating and using **SQL Views** to encapsulate complex que
 
 ---
 
-## 📚 Concepts Practiced
+## Concepts Practiced
 
 - Creating Views from single/multiple tables
 - Using views for simplification and abstraction
@@ -15,7 +15,7 @@ This task focuses on creating and using **SQL Views** to encapsulate complex que
 
 ---
 
-## ⚠️ Notes
+## Notes
 
 - Views with joins and `GROUP BY` are **not updatable**
 - Simple views over one table **can be updated**
